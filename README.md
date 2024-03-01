@@ -4,8 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1500&color=20F714&random=false&width=700&lines=I+aim+to+empower+others+with+data-driven+decision-making)](https://git.io/typing-svg)
 
-- 👋 Hi, I’m @luislopezbracey
-- 👀 I’m a lead data analyst. I've played around with analytics for the last 6 years, before which I was a management consultant.
+- 👋 Hi, I’m @luislopezbracey and I’m a lead data analyst.
+- 👀 I've played around with analytics for the last 6 years, before which I was a management consultant. I hold an MBA and a Master's in Engineering.
 - 💞️ I launched my own charity venture that uses data to match disadvantaged students with tutors.
 - 🌱 When I am not coding you can find me scrapping Skyscanner for my next adventure. I also spend a lot of my time playing sports -- any (sport != NULL)
 
